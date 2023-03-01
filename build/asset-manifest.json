@@ -1,0 +1,15 @@
+{
+  "main.css": "/hrms_frontend/build/static/css/main.c54d67a3.chunk.css",
+  "main.js": "/hrms_frontend/build/static/js/main.a0fefdc9.chunk.js",
+  "main.js.map": "/hrms_frontend/build/static/js/main.a0fefdc9.chunk.js.map",
+  "runtime~main.js": "/hrms_frontend/build/static/js/runtime~main.446dd03d.js",
+  "runtime~main.js.map": "/hrms_frontend/build/static/js/runtime~main.446dd03d.js.map",
+  "static/css/2.97550db2.chunk.css": "/hrms_frontend/build/static/css/2.97550db2.chunk.css",
+  "static/js/2.4aab4a56.chunk.js": "/hrms_frontend/build/static/js/2.4aab4a56.chunk.js",
+  "static/js/2.4aab4a56.chunk.js.map": "/hrms_frontend/build/static/js/2.4aab4a56.chunk.js.map",
+  "index.html": "/hrms_frontend/build/index.html",
+  "precache-manifest.89d4a7ee0da0d5daf0bbd6faf5b5888d.js": "/hrms_frontend/build/precache-manifest.89d4a7ee0da0d5daf0bbd6faf5b5888d.js",
+  "service-worker.js": "/hrms_frontend/build/service-worker.js",
+  "static/css/2.97550db2.chunk.css.map": "/hrms_frontend/build/static/css/2.97550db2.chunk.css.map",
+  "static/css/main.c54d67a3.chunk.css.map": "/hrms_frontend/build/static/css/main.c54d67a3.chunk.css.map"
+}

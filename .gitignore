@@ -1,0 +1,32 @@
+# binaries
+bin/
+dist/
+lib/
+
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
+.DS_Store
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+#package files
+/package.json/
+package-lock.json/
+/yarn.lock/
+# Keystore
+/keystore/
+
+src/config/config.js

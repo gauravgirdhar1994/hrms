@@ -1,0 +1,9 @@
+{
+    "uid": "vow-first",
+    "append": true,
+    "watch": true,
+    "script": "index.js",
+    "sourceDir": "/Users/deepakchandra/Desktop/9wheel/vowFirsts/hrms_frontend/src",
+    "command": "/usr/local/bin/node",
+    "args": ["--port", "9000"]
+}

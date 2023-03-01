@@ -1,0 +1,41 @@
+:root {
+    --reach-dialog: 1;
+  }
+  
+[data-reach-dialog-overlay] {
+    background: hsla(0, 0%, 0%, 0.33);
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    z-index: 99999;
+}
+
+[data-reach-dialog-content] {
+    width: 50vw;
+    margin: 10vh auto;
+    background: white;
+    padding: 2rem;
+    outline: none;
+    top: 20%;
+    position: absolute;
+    left: auto;
+    left: 27%;
+    box-shadow: 1px 2px 14px #000000;
+}
+
+[data-reach-alert-dialog-label] {
+    color: #00008b;
+    font-size: 150%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.alert-buttons {
+    text-align: right;
+    margin-top: 20px;
+}
+.alert-message {
+    font-size: 14px;
+}
